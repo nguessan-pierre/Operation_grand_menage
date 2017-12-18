@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 143b6378b4469bf4dacfd39b673ba483
+timeCreated: 1510761595
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: eye_left
+    100004: eye_right
+    100006: head_ear_left
+    100008: head_ear_right
+    100010: head_eyebrow_left
+    100012: head_eyebrow_right
+    100014: head_jaw
+    100016: head_mouth_corner_left
+    100018: head_mouth_corner_right
+    100020: head_neck_lower
+    100022: head_neck_upper
+    100024: head_tongue_1
+    100026: head_tongue_2
+    100028: leg_back_ankle_left
+    100030: leg_back_ankle_right
+    100032: leg_back_knee_left
+    100034: leg_back_knee_right
+    100036: leg_back_thigh_left
+    100038: leg_back_thigh_right
+    100040: leg_back_toes_left
+    100042: leg_back_toes_right
+    100044: leg_front_knee_left
+    100046: leg_front_knee_right
+    100048: leg_front_thigh_left
+    100050: leg_front_thigh_right
+    100052: leg_front_toes_left
+    100054: leg_front_toes_right
+    100056: pelvis
+    100058: root_ground
+    100060: root_hips
+    100062: spine_lower
+    100064: spine_upper
+    100066: tail
+    100068: //RootNode
+    100070: zombiedoga
+    400000: Armature
+    400002: eye_left
+    400004: eye_right
+    400006: head_ear_left
+    400008: head_ear_right
+    400010: head_eyebrow_left
+    400012: head_eyebrow_right
+    400014: head_jaw
+    400016: head_mouth_corner_left
+    400018: head_mouth_corner_right
+    400020: head_neck_lower
+    400022: head_neck_upper
+    400024: head_tongue_1
+    400026: head_tongue_2
+    400028: leg_back_ankle_left
+    400030: leg_back_ankle_right
+    400032: leg_back_knee_left
+    400034: leg_back_knee_right
+    400036: leg_back_thigh_left
+    400038: leg_back_thigh_right
+    400040: leg_back_toes_left
+    400042: leg_back_toes_right
+    400044: leg_front_knee_left
+    400046: leg_front_knee_right
+    400048: leg_front_thigh_left
+    400050: leg_front_thigh_right
+    400052: leg_front_toes_left
+    400054: leg_front_toes_right
+    400056: pelvis
+    400058: root_ground
+    400060: root_hips
+    400062: spine_lower
+    400064: spine_upper
+    400066: tail
+    400068: //RootNode
+    400070: zombiedoga
+    4300000: zombiedoga
+    9500000: //RootNode
+    13700000: zombiedoga
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zombie_Dog_A__zombiedog_A_d_tga
+    second: {fileID: 2100000, guid: 4b21ea81e903c9948b508098eaa20957, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

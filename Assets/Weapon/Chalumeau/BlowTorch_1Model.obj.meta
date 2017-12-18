@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: b8b32ccb6ddbe4747992ce6185e6ca20
+timeCreated: 1510074166
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mtl
+    100004: Mtl10
+    100006: Mtl12
+    100008: Mtl13
+    100010: Mtl15
+    100012: Mtl17
+    100014: Mtla
+    100016: Mtlb
+    100018: Steel
+    100020: Steel1
+    100022: Steel11
+    100024: Steel14
+    100026: Steel18
+    100028: Steel19
+    100030: Steel1a
+    100032: Steel1b
+    100034: Steel2
+    100036: Steel20
+    100038: Steel21
+    100040: Steel23
+    100042: Steel24
+    100044: Steel25
+    100046: Steel26
+    100048: Steel27
+    100050: Steel28
+    100052: Steel3
+    100054: Steel5
+    100056: Steel6
+    100058: Steel8
+    100060: Steel9
+    400000: //RootNode
+    400002: Mtl
+    400004: Mtl10
+    400006: Mtl12
+    400008: Mtl13
+    400010: Mtl15
+    400012: Mtl17
+    400014: Mtla
+    400016: Mtlb
+    400018: Steel
+    400020: Steel1
+    400022: Steel11
+    400024: Steel14
+    400026: Steel18
+    400028: Steel19
+    400030: Steel1a
+    400032: Steel1b
+    400034: Steel2
+    400036: Steel20
+    400038: Steel21
+    400040: Steel23
+    400042: Steel24
+    400044: Steel25
+    400046: Steel26
+    400048: Steel27
+    400050: Steel28
+    400052: Steel3
+    400054: Steel5
+    400056: Steel6
+    400058: Steel8
+    400060: Steel9
+    2300000: Mtl
+    2300002: Mtl10
+    2300004: Mtl12
+    2300006: Mtl13
+    2300008: Mtl15
+    2300010: Mtl17
+    2300012: Mtla
+    2300014: Mtlb
+    2300016: Steel
+    2300018: Steel1
+    2300020: Steel11
+    2300022: Steel14
+    2300024: Steel18
+    2300026: Steel19
+    2300028: Steel1a
+    2300030: Steel1b
+    2300032: Steel2
+    2300034: Steel20
+    2300036: Steel21
+    2300038: Steel23
+    2300040: Steel24
+    2300042: Steel25
+    2300044: Steel26
+    2300046: Steel27
+    2300048: Steel28
+    2300050: Steel3
+    2300052: Steel5
+    2300054: Steel6
+    2300056: Steel8
+    2300058: Steel9
+    3300000: Mtl
+    3300002: Mtl10
+    3300004: Mtl12
+    3300006: Mtl13
+    3300008: Mtl15
+    3300010: Mtl17
+    3300012: Mtla
+    3300014: Mtlb
+    3300016: Steel
+    3300018: Steel1
+    3300020: Steel11
+    3300022: Steel14
+    3300024: Steel18
+    3300026: Steel19
+    3300028: Steel1a
+    3300030: Steel1b
+    3300032: Steel2
+    3300034: Steel20
+    3300036: Steel21
+    3300038: Steel23
+    3300040: Steel24
+    3300042: Steel25
+    3300044: Steel26
+    3300046: Steel27
+    3300048: Steel28
+    3300050: Steel3
+    3300052: Steel5
+    3300054: Steel6
+    3300056: Steel8
+    3300058: Steel9
+    4300000: Mtl
+    4300002: Mtl10
+    4300004: Mtl12
+    4300006: Mtl13
+    4300008: Mtl15
+    4300010: Mtl17
+    4300012: Mtla
+    4300014: Mtlb
+    4300016: Steel
+    4300018: Steel1
+    4300020: Steel11
+    4300022: Steel14
+    4300024: Steel18
+    4300026: Steel19
+    4300028: Steel1a
+    4300030: Steel1b
+    4300032: Steel2
+    4300034: Steel20
+    4300036: Steel21
+    4300038: Steel23
+    4300040: Steel24
+    4300042: Steel25
+    4300044: Steel26
+    4300046: Steel27
+    4300048: Steel28
+    4300050: Steel3
+    4300052: Steel5
+    4300054: Steel6
+    4300056: Steel8
+    4300058: Steel9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mtl10Mat
+    second: {fileID: 2100000, guid: aac07641208f5ad46871e244a4744728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mtl12Mat
+    second: {fileID: 2100000, guid: dd3eb898438ddad4490cfd9400c8389c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mtl13Mat
+    second: {fileID: 2100000, guid: 1539b1cde70cad841a742808b831c268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mtl15Mat
+    second: {fileID: 2100000, guid: ec1fabe42a460c54d93c709205c15f6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mtl17Mat
+    second: {fileID: 2100000, guid: 27602084a45e3cb48bd68ce43bf0570d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MtlMat
+    second: {fileID: 2100000, guid: 9a850d7c33676374dbbdbe0b9981a718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MtlaMat
+    second: {fileID: 2100000, guid: 2245c8aefc0cde644911783dec8d152c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MtlbMat
+    second: {fileID: 2100000, guid: 10012bfe10175a54697c8bd89e05d47d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel11Mat
+    second: {fileID: 2100000, guid: 269a20710b5cd354d810b683e91b5260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel14Mat
+    second: {fileID: 2100000, guid: 2b8a7a313e8e6654e9c6549342b4402f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel18Mat
+    second: {fileID: 2100000, guid: dbec2294e68f84a478b47266db45a1e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel19Mat
+    second: {fileID: 2100000, guid: cbadd70497398f6419ae94de4c987666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel1Mat
+    second: {fileID: 2100000, guid: f57965960f3d73f4096a8ada392f5edd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel1aMat
+    second: {fileID: 2100000, guid: 1726ac630b8f08f42bcc6eb9bcf4c662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel1bMat
+    second: {fileID: 2100000, guid: dec0ee606e389ff429b022f9f61d9ad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel20Mat
+    second: {fileID: 2100000, guid: 25ad5f266907a1b49b97408bc897c8e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel21Mat
+    second: {fileID: 2100000, guid: 6998619ddeb850b48a1198844664522b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel23Mat
+    second: {fileID: 2100000, guid: 4df2cc3283095f54ba25ba6bcee3c02f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel24Mat
+    second: {fileID: 2100000, guid: 31584a69de4b52c40849c31f374563f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel25Mat
+    second: {fileID: 2100000, guid: 00d5d317b0a4d0440bdfb027cbd92bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel26Mat
+    second: {fileID: 2100000, guid: 51e5edf3ad18c9f4cafbc9b535683fb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel27Mat
+    second: {fileID: 2100000, guid: 4df20c200be43ae4c810c1fd6c0561b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel28Mat
+    second: {fileID: 2100000, guid: ebc7d1c56a5a856408ea5c43615bb833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel2Mat
+    second: {fileID: 2100000, guid: 802e5b751188f04468b039108c4d4b35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel3Mat
+    second: {fileID: 2100000, guid: 537d29ccc7ec2e8419dfc03dfab2e42e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel5Mat
+    second: {fileID: 2100000, guid: 5ba9f8b5264822f44b619b5cc68380c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel6Mat
+    second: {fileID: 2100000, guid: 466e2fba7837a454c9ea71ce1f9e6020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel8Mat
+    second: {fileID: 2100000, guid: 7e7e1638878c3de4b961e6aecf899008, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel9Mat
+    second: {fileID: 2100000, guid: 9f7032f06e6379e4097423abee5a801f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SteelMat
+    second: {fileID: 2100000, guid: 24ea06f7bf3c9dc48aa23cfa4d9b9a7b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

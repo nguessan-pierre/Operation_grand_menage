@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: e259ca4b18d544d488ec013af8f9d0ef
+timeCreated: 1510330535
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: suitcase_suitxase
+    100004: suitxase_suitcase1
+    100006: suitxase_suitcase10
+    100008: suitxase_suitcase11
+    100010: suitxase_suitcase12
+    100012: suitxase_suitcase13
+    100014: suitxase_suitcase14
+    100016: suitxase_suitcase15
+    100018: suitxase_suitcase16
+    100020: suitxase_suitcase17
+    100022: suitxase_suitcase18
+    100024: suitxase_suitcase19
+    100026: suitxase_suitcase2
+    100028: suitxase_suitcase20
+    100030: suitxase_suitcase21
+    100032: suitxase_suitcase22
+    100034: suitxase_suitcase23
+    100036: suitxase_suitcase24
+    100038: suitxase_suitcase25
+    100040: suitxase_suitcase26
+    100042: suitxase_suitcase27
+    100044: suitxase_suitcase28
+    100046: suitxase_suitcase29
+    100048: suitxase_suitcase3
+    100050: suitxase_suitcase30
+    100052: suitxase_suitcase31
+    100054: suitxase_suitcase32
+    100056: suitxase_suitcase33
+    100058: suitxase_suitcase34
+    100060: suitxase_suitcase35
+    100062: suitxase_suitcase36
+    100064: suitxase_suitcase37
+    100066: suitxase_suitcase38
+    100068: suitxase_suitcase39
+    100070: suitxase_suitcase4
+    100072: suitxase_suitcase40
+    100074: suitxase_suitcase41
+    100076: suitxase_suitcase42
+    100078: suitxase_suitcase43
+    100080: suitxase_suitcase44
+    100082: suitxase_suitcase45
+    100084: suitxase_suitcase46
+    100086: suitxase_suitcase47
+    100088: suitxase_suitcase48
+    100090: suitxase_suitcase49
+    100092: suitxase_suitcase5
+    100094: suitxase_suitcase50
+    100096: suitxase_suitcase51
+    100098: suitxase_suitcase52
+    100100: suitxase_suitcase53
+    100102: suitxase_suitcase54
+    100104: suitxase_suitcase55
+    100106: suitxase_suitcase56
+    100108: suitxase_suitcase57
+    100110: suitxase_suitcase58
+    100112: suitxase_suitcase59
+    100114: suitxase_suitcase6
+    100116: suitxase_suitcase60
+    100118: suitxase_suitcase61
+    100120: suitxase_suitcase62
+    100122: suitxase_suitcase63
+    100124: suitxase_suitcase64
+    100126: suitxase_suitcase65
+    100128: suitxase_suitcase66
+    100130: suitxase_suitcase67
+    100132: suitxase_suitcase68
+    100134: suitxase_suitcase69
+    100136: suitxase_suitcase7
+    100138: suitxase_suitcase70
+    100140: suitxase_suitcase71
+    100142: suitxase_suitcase72
+    100144: suitxase_suitcase73
+    100146: suitxase_suitcase74
+    100148: suitxase_suitcase75
+    100150: suitxase_suitcase76
+    100152: suitxase_suitcase77
+    100154: suitxase_suitcase78
+    100156: suitxase_suitcase79
+    100158: suitxase_suitcase8
+    100160: suitxase_suitcase80
+    100162: suitxase_suitcase81
+    100164: suitxase_suitcase82
+    100166: suitxase_suitcase83
+    100168: suitxase_suitcase84
+    100170: suitxase_suitcase85
+    100172: suitxase_suitcase86
+    100174: suitxase_suitcase87
+    100176: suitxase_suitcase88
+    100178: suitxase_suitcase9
+    400000: //RootNode
+    400002: suitcase_suitxase
+    400004: suitxase_suitcase1
+    400006: suitxase_suitcase10
+    400008: suitxase_suitcase11
+    400010: suitxase_suitcase12
+    400012: suitxase_suitcase13
+    400014: suitxase_suitcase14
+    400016: suitxase_suitcase15
+    400018: suitxase_suitcase16
+    400020: suitxase_suitcase17
+    400022: suitxase_suitcase18
+    400024: suitxase_suitcase19
+    400026: suitxase_suitcase2
+    400028: suitxase_suitcase20
+    400030: suitxase_suitcase21
+    400032: suitxase_suitcase22
+    400034: suitxase_suitcase23
+    400036: suitxase_suitcase24
+    400038: suitxase_suitcase25
+    400040: suitxase_suitcase26
+    400042: suitxase_suitcase27
+    400044: suitxase_suitcase28
+    400046: suitxase_suitcase29
+    400048: suitxase_suitcase3
+    400050: suitxase_suitcase30
+    400052: suitxase_suitcase31
+    400054: suitxase_suitcase32
+    400056: suitxase_suitcase33
+    400058: suitxase_suitcase34
+    400060: suitxase_suitcase35
+    400062: suitxase_suitcase36
+    400064: suitxase_suitcase37
+    400066: suitxase_suitcase38
+    400068: suitxase_suitcase39
+    400070: suitxase_suitcase4
+    400072: suitxase_suitcase40
+    400074: suitxase_suitcase41
+    400076: suitxase_suitcase42
+    400078: suitxase_suitcase43
+    400080: suitxase_suitcase44
+    400082: suitxase_suitcase45
+    400084: suitxase_suitcase46
+    400086: suitxase_suitcase47
+    400088: suitxase_suitcase48
+    400090: suitxase_suitcase49
+    400092: suitxase_suitcase5
+    400094: suitxase_suitcase50
+    400096: suitxase_suitcase51
+    400098: suitxase_suitcase52
+    400100: suitxase_suitcase53
+    400102: suitxase_suitcase54
+    400104: suitxase_suitcase55
+    400106: suitxase_suitcase56
+    400108: suitxase_suitcase57
+    400110: suitxase_suitcase58
+    400112: suitxase_suitcase59
+    400114: suitxase_suitcase6
+    400116: suitxase_suitcase60
+    400118: suitxase_suitcase61
+    400120: suitxase_suitcase62
+    400122: suitxase_suitcase63
+    400124: suitxase_suitcase64
+    400126: suitxase_suitcase65
+    400128: suitxase_suitcase66
+    400130: suitxase_suitcase67
+    400132: suitxase_suitcase68
+    400134: suitxase_suitcase69
+    400136: suitxase_suitcase7
+    400138: suitxase_suitcase70
+    400140: suitxase_suitcase71
+    400142: suitxase_suitcase72
+    400144: suitxase_suitcase73
+    400146: suitxase_suitcase74
+    400148: suitxase_suitcase75
+    400150: suitxase_suitcase76
+    400152: suitxase_suitcase77
+    400154: suitxase_suitcase78
+    400156: suitxase_suitcase79
+    400158: suitxase_suitcase8
+    400160: suitxase_suitcase80
+    400162: suitxase_suitcase81
+    400164: suitxase_suitcase82
+    400166: suitxase_suitcase83
+    400168: suitxase_suitcase84
+    400170: suitxase_suitcase85
+    400172: suitxase_suitcase86
+    400174: suitxase_suitcase87
+    400176: suitxase_suitcase88
+    400178: suitxase_suitcase9
+    2300000: suitcase_suitxase
+    2300002: suitxase_suitcase1
+    2300004: suitxase_suitcase10
+    2300006: suitxase_suitcase11
+    2300008: suitxase_suitcase12
+    2300010: suitxase_suitcase13
+    2300012: suitxase_suitcase14
+    2300014: suitxase_suitcase15
+    2300016: suitxase_suitcase16
+    2300018: suitxase_suitcase17
+    2300020: suitxase_suitcase18
+    2300022: suitxase_suitcase19
+    2300024: suitxase_suitcase2
+    2300026: suitxase_suitcase20
+    2300028: suitxase_suitcase21
+    2300030: suitxase_suitcase22
+    2300032: suitxase_suitcase23
+    2300034: suitxase_suitcase24
+    2300036: suitxase_suitcase25
+    2300038: suitxase_suitcase26
+    2300040: suitxase_suitcase27
+    2300042: suitxase_suitcase28
+    2300044: suitxase_suitcase29
+    2300046: suitxase_suitcase3
+    2300048: suitxase_suitcase30
+    2300050: suitxase_suitcase31
+    2300052: suitxase_suitcase32
+    2300054: suitxase_suitcase33
+    2300056: suitxase_suitcase34
+    2300058: suitxase_suitcase35
+    2300060: suitxase_suitcase36
+    2300062: suitxase_suitcase37
+    2300064: suitxase_suitcase38
+    2300066: suitxase_suitcase39
+    2300068: suitxase_suitcase4
+    2300070: suitxase_suitcase40
+    2300072: suitxase_suitcase41
+    2300074: suitxase_suitcase42
+    2300076: suitxase_suitcase43
+    2300078: suitxase_suitcase44
+    2300080: suitxase_suitcase45
+    2300082: suitxase_suitcase46
+    2300084: suitxase_suitcase47
+    2300086: suitxase_suitcase48
+    2300088: suitxase_suitcase49
+    2300090: suitxase_suitcase5
+    2300092: suitxase_suitcase50
+    2300094: suitxase_suitcase51
+    2300096: suitxase_suitcase52
+    2300098: suitxase_suitcase53
+    2300100: suitxase_suitcase54
+    2300102: suitxase_suitcase55
+    2300104: suitxase_suitcase56
+    2300106: suitxase_suitcase57
+    2300108: suitxase_suitcase58
+    2300110: suitxase_suitcase59
+    2300112: suitxase_suitcase6
+    2300114: suitxase_suitcase60
+    2300116: suitxase_suitcase61
+    2300118: suitxase_suitcase62
+    2300120: suitxase_suitcase63
+    2300122: suitxase_suitcase64
+    2300124: suitxase_suitcase65
+    2300126: suitxase_suitcase66
+    2300128: suitxase_suitcase67
+    2300130: suitxase_suitcase68
+    2300132: suitxase_suitcase69
+    2300134: suitxase_suitcase7
+    2300136: suitxase_suitcase70
+    2300138: suitxase_suitcase71
+    2300140: suitxase_suitcase72
+    2300142: suitxase_suitcase73
+    2300144: suitxase_suitcase74
+    2300146: suitxase_suitcase75
+    2300148: suitxase_suitcase76
+    2300150: suitxase_suitcase77
+    2300152: suitxase_suitcase78
+    2300154: suitxase_suitcase79
+    2300156: suitxase_suitcase8
+    2300158: suitxase_suitcase80
+    2300160: suitxase_suitcase81
+    2300162: suitxase_suitcase82
+    2300164: suitxase_suitcase83
+    2300166: suitxase_suitcase84
+    2300168: suitxase_suitcase85
+    2300170: suitxase_suitcase86
+    2300172: suitxase_suitcase87
+    2300174: suitxase_suitcase88
+    2300176: suitxase_suitcase9
+    3300000: suitcase_suitxase
+    3300002: suitxase_suitcase1
+    3300004: suitxase_suitcase10
+    3300006: suitxase_suitcase11
+    3300008: suitxase_suitcase12
+    3300010: suitxase_suitcase13
+    3300012: suitxase_suitcase14
+    3300014: suitxase_suitcase15
+    3300016: suitxase_suitcase16
+    3300018: suitxase_suitcase17
+    3300020: suitxase_suitcase18
+    3300022: suitxase_suitcase19
+    3300024: suitxase_suitcase2
+    3300026: suitxase_suitcase20
+    3300028: suitxase_suitcase21
+    3300030: suitxase_suitcase22
+    3300032: suitxase_suitcase23
+    3300034: suitxase_suitcase24
+    3300036: suitxase_suitcase25
+    3300038: suitxase_suitcase26
+    3300040: suitxase_suitcase27
+    3300042: suitxase_suitcase28
+    3300044: suitxase_suitcase29
+    3300046: suitxase_suitcase3
+    3300048: suitxase_suitcase30
+    3300050: suitxase_suitcase31
+    3300052: suitxase_suitcase32
+    3300054: suitxase_suitcase33
+    3300056: suitxase_suitcase34
+    3300058: suitxase_suitcase35
+    3300060: suitxase_suitcase36
+    3300062: suitxase_suitcase37
+    3300064: suitxase_suitcase38
+    3300066: suitxase_suitcase39
+    3300068: suitxase_suitcase4
+    3300070: suitxase_suitcase40
+    3300072: suitxase_suitcase41
+    3300074: suitxase_suitcase42
+    3300076: suitxase_suitcase43
+    3300078: suitxase_suitcase44
+    3300080: suitxase_suitcase45
+    3300082: suitxase_suitcase46
+    3300084: suitxase_suitcase47
+    3300086: suitxase_suitcase48
+    3300088: suitxase_suitcase49
+    3300090: suitxase_suitcase5
+    3300092: suitxase_suitcase50
+    3300094: suitxase_suitcase51
+    3300096: suitxase_suitcase52
+    3300098: suitxase_suitcase53
+    3300100: suitxase_suitcase54
+    3300102: suitxase_suitcase55
+    3300104: suitxase_suitcase56
+    3300106: suitxase_suitcase57
+    3300108: suitxase_suitcase58
+    3300110: suitxase_suitcase59
+    3300112: suitxase_suitcase6
+    3300114: suitxase_suitcase60
+    3300116: suitxase_suitcase61
+    3300118: suitxase_suitcase62
+    3300120: suitxase_suitcase63
+    3300122: suitxase_suitcase64
+    3300124: suitxase_suitcase65
+    3300126: suitxase_suitcase66
+    3300128: suitxase_suitcase67
+    3300130: suitxase_suitcase68
+    3300132: suitxase_suitcase69
+    3300134: suitxase_suitcase7
+    3300136: suitxase_suitcase70
+    3300138: suitxase_suitcase71
+    3300140: suitxase_suitcase72
+    3300142: suitxase_suitcase73
+    3300144: suitxase_suitcase74
+    3300146: suitxase_suitcase75
+    3300148: suitxase_suitcase76
+    3300150: suitxase_suitcase77
+    3300152: suitxase_suitcase78
+    3300154: suitxase_suitcase79
+    3300156: suitxase_suitcase8
+    3300158: suitxase_suitcase80
+    3300160: suitxase_suitcase81
+    3300162: suitxase_suitcase82
+    3300164: suitxase_suitcase83
+    3300166: suitxase_suitcase84
+    3300168: suitxase_suitcase85
+    3300170: suitxase_suitcase86
+    3300172: suitxase_suitcase87
+    3300174: suitxase_suitcase88
+    3300176: suitxase_suitcase9
+    4300000: suitcase_suitxase
+    4300002: suitxase_suitcase1
+    4300004: suitxase_suitcase10
+    4300006: suitxase_suitcase11
+    4300008: suitxase_suitcase12
+    4300010: suitxase_suitcase13
+    4300012: suitxase_suitcase14
+    4300014: suitxase_suitcase15
+    4300016: suitxase_suitcase16
+    4300018: suitxase_suitcase17
+    4300020: suitxase_suitcase18
+    4300022: suitxase_suitcase19
+    4300024: suitxase_suitcase2
+    4300026: suitxase_suitcase20
+    4300028: suitxase_suitcase21
+    4300030: suitxase_suitcase22
+    4300032: suitxase_suitcase23
+    4300034: suitxase_suitcase24
+    4300036: suitxase_suitcase25
+    4300038: suitxase_suitcase26
+    4300040: suitxase_suitcase27
+    4300042: suitxase_suitcase28
+    4300044: suitxase_suitcase29
+    4300046: suitxase_suitcase3
+    4300048: suitxase_suitcase30
+    4300050: suitxase_suitcase31
+    4300052: suitxase_suitcase32
+    4300054: suitxase_suitcase33
+    4300056: suitxase_suitcase34
+    4300058: suitxase_suitcase35
+    4300060: suitxase_suitcase36
+    4300062: suitxase_suitcase37
+    4300064: suitxase_suitcase38
+    4300066: suitxase_suitcase39
+    4300068: suitxase_suitcase4
+    4300070: suitxase_suitcase40
+    4300072: suitxase_suitcase41
+    4300074: suitxase_suitcase42
+    4300076: suitxase_suitcase43
+    4300078: suitxase_suitcase44
+    4300080: suitxase_suitcase45
+    4300082: suitxase_suitcase46
+    4300084: suitxase_suitcase47
+    4300086: suitxase_suitcase48
+    4300088: suitxase_suitcase49
+    4300090: suitxase_suitcase5
+    4300092: suitxase_suitcase50
+    4300094: suitxase_suitcase51
+    4300096: suitxase_suitcase52
+    4300098: suitxase_suitcase53
+    4300100: suitxase_suitcase54
+    4300102: suitxase_suitcase55
+    4300104: suitxase_suitcase56
+    4300106: suitxase_suitcase57
+    4300108: suitxase_suitcase58
+    4300110: suitxase_suitcase59
+    4300112: suitxase_suitcase6
+    4300114: suitxase_suitcase60
+    4300116: suitxase_suitcase61
+    4300118: suitxase_suitcase62
+    4300120: suitxase_suitcase63
+    4300122: suitxase_suitcase64
+    4300124: suitxase_suitcase65
+    4300126: suitxase_suitcase66
+    4300128: suitxase_suitcase67
+    4300130: suitxase_suitcase68
+    4300132: suitxase_suitcase69
+    4300134: suitxase_suitcase7
+    4300136: suitxase_suitcase70
+    4300138: suitxase_suitcase71
+    4300140: suitxase_suitcase72
+    4300142: suitxase_suitcase73
+    4300144: suitxase_suitcase74
+    4300146: suitxase_suitcase75
+    4300148: suitxase_suitcase76
+    4300150: suitxase_suitcase77
+    4300152: suitxase_suitcase78
+    4300154: suitxase_suitcase79
+    4300156: suitxase_suitcase8
+    4300158: suitxase_suitcase80
+    4300160: suitxase_suitcase81
+    4300162: suitxase_suitcase82
+    4300164: suitxase_suitcase83
+    4300166: suitxase_suitcase84
+    4300168: suitxase_suitcase85
+    4300170: suitxase_suitcase86
+    4300172: suitxase_suitcase87
+    4300174: suitxase_suitcase88
+    4300176: suitxase_suitcase9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitcase_suitxaseMat
+    second: {fileID: 2100000, guid: abe9c08b392b6e243ae4fe555dfaabf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase10Mat
+    second: {fileID: 2100000, guid: c4f61507d918eff4aa4b041b5bb8fc80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase11Mat
+    second: {fileID: 2100000, guid: ba237b8b0da1bed45ad0e0326751b6b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase12Mat
+    second: {fileID: 2100000, guid: a2fa2dca859dda8469ca9fa4c75134b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase13Mat
+    second: {fileID: 2100000, guid: 8956453916bb44241b47dc779b245b4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase14Mat
+    second: {fileID: 2100000, guid: be74a20b04683784a9438740f244deab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase15Mat
+    second: {fileID: 2100000, guid: f5e775e9377d05b489509deeb20e5f55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase16Mat
+    second: {fileID: 2100000, guid: 0583c865a3fb0a740b3c0996ecb1dee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase17Mat
+    second: {fileID: 2100000, guid: d675e3b54fc9a9547a03d2a550ff1707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase18Mat
+    second: {fileID: 2100000, guid: 4463587598c4c8f4d8469c585c54fc15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase19Mat
+    second: {fileID: 2100000, guid: 48fcbf09d5941cf45b3cae8e589c7215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase1Mat
+    second: {fileID: 2100000, guid: b645ade0c52840a439858d09970b246f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase20Mat
+    second: {fileID: 2100000, guid: a028aedf75756794ba05e6dda940b0a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase21Mat
+    second: {fileID: 2100000, guid: 62d920d5e3f5a1d49bbfd083f9b7e6e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase22Mat
+    second: {fileID: 2100000, guid: 7c7dd5bed7d3a094d9ecaac691ed99a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase23Mat
+    second: {fileID: 2100000, guid: 0228e2d6260b314478df6ee3a35410b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase24Mat
+    second: {fileID: 2100000, guid: b2c6f72ebba2d6b49941fac2f53e0e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase25Mat
+    second: {fileID: 2100000, guid: 6f0884391977d774ca6d126a7ff3d50f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase26Mat
+    second: {fileID: 2100000, guid: 0b9393acfeffdfc4e88b053312d1d976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase27Mat
+    second: {fileID: 2100000, guid: 284ec006cd7b4a04bb3b622d54df18c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase28Mat
+    second: {fileID: 2100000, guid: c18396084b1f132478b38bc6ab6ad2b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase29Mat
+    second: {fileID: 2100000, guid: 61daab596b3cadf43bd661b873412033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase2Mat
+    second: {fileID: 2100000, guid: fe380defcef676c498561cd9fb8babd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase30Mat
+    second: {fileID: 2100000, guid: f1a3ea526cd38ca449e0b9fe7bf94492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase31Mat
+    second: {fileID: 2100000, guid: 61a984f5ea2c8f543bf918a88e90289c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase32Mat
+    second: {fileID: 2100000, guid: bee1174cfeb47d0458f2fbc4ecc9369f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase33Mat
+    second: {fileID: 2100000, guid: ad4c81b836acb914da23293452962e99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase34Mat
+    second: {fileID: 2100000, guid: c670f656148cace428359b3cc7af873d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase35Mat
+    second: {fileID: 2100000, guid: 39c75ae841dee7c45871187e547d6735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase36Mat
+    second: {fileID: 2100000, guid: d59274e2b8734ca409cea1cc7a79b93e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase37Mat
+    second: {fileID: 2100000, guid: e93d5bc0dbf846b4785c3f0d2c21c889, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase38Mat
+    second: {fileID: 2100000, guid: b399797249492b84a8587c868e9913ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase39Mat
+    second: {fileID: 2100000, guid: 0237d37deb15cf0498b096af314f5810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase3Mat
+    second: {fileID: 2100000, guid: 4a333edd45b879d4eb9fc44e9790366f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase40Mat
+    second: {fileID: 2100000, guid: 19b3fcfe4c901e842a31996499a94129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase41Mat
+    second: {fileID: 2100000, guid: ffec478eacba82f40ac82a46c37a614f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase42Mat
+    second: {fileID: 2100000, guid: a5d25aef0a456814fb8155d076517d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase43Mat
+    second: {fileID: 2100000, guid: 682ed51a8eefa08408bfee26cac58fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase44Mat
+    second: {fileID: 2100000, guid: 95a69d4dee25c07478d389fae0711f21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase45Mat
+    second: {fileID: 2100000, guid: 5d614eccd2929df4f8c9487a28fd562f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase46Mat
+    second: {fileID: 2100000, guid: 5c45c55c9653dbe478e1920278a5ac56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase47Mat
+    second: {fileID: 2100000, guid: ceaff04fc8765b240ac5b2d4631b2456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase48Mat
+    second: {fileID: 2100000, guid: cd0c1d7075748b641a4f99b8eea89da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase49Mat
+    second: {fileID: 2100000, guid: 1a7243c630b6bf54dba19dc832cc5794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase4Mat
+    second: {fileID: 2100000, guid: 8686f05843742f944b035d94b9a65fa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase50Mat
+    second: {fileID: 2100000, guid: 8edfe1a794253f94291727c18926856c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase51Mat
+    second: {fileID: 2100000, guid: dc5ec01116ded1142b1549cd19ec0a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase52Mat
+    second: {fileID: 2100000, guid: a3f1793af27b8e14c893a14d1c4885af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase53Mat
+    second: {fileID: 2100000, guid: cafc2075935281e4db13ccac27f6650c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase54Mat
+    second: {fileID: 2100000, guid: 934ef41fd84f40c4a833cb290ae750fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase55Mat
+    second: {fileID: 2100000, guid: f8aed98756e361a4d969ca9f13528bd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase56Mat
+    second: {fileID: 2100000, guid: 8bfb149cc07f5124ba153f38c6a2e09b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase57Mat
+    second: {fileID: 2100000, guid: 3d87490914b41204a94782408a6a5a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase58Mat
+    second: {fileID: 2100000, guid: 736925b4e082df9458db37febdf20539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase59Mat
+    second: {fileID: 2100000, guid: a458ffa439929824b80a1bfe41679109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase5Mat
+    second: {fileID: 2100000, guid: e527b48584cd6a346ba113faede97032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase60Mat
+    second: {fileID: 2100000, guid: 6ed6179981f8ddb47b4cee573cd54850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase61Mat
+    second: {fileID: 2100000, guid: f051ccb4c4afbb84b90a8f3ac22b59b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase62Mat
+    second: {fileID: 2100000, guid: 78efff0b25cf25e4ebbee6f1d11b1632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase63Mat
+    second: {fileID: 2100000, guid: cdceb4afba184bc4784a7fb5c3930289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase64Mat
+    second: {fileID: 2100000, guid: b0e7ff68dc12ac64498c64b600c4f84b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase65Mat
+    second: {fileID: 2100000, guid: 8cfefbe8129d95f4ebcfe445124188c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase66Mat
+    second: {fileID: 2100000, guid: 9e3d0fdb19c183243873fe8da9b17987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase67Mat
+    second: {fileID: 2100000, guid: 35bf4e8d682043f438306589f1fb1110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase68Mat
+    second: {fileID: 2100000, guid: e8c0e8d9529e8524f8005fe102f5f6df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase69Mat
+    second: {fileID: 2100000, guid: 20c8ac58569b0e54581356c848cd4ad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase6Mat
+    second: {fileID: 2100000, guid: 5e4b8420a96514a408ef1ac532e20842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase70Mat
+    second: {fileID: 2100000, guid: 76cc9c0a0c2b3184d850e37050388a57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase71Mat
+    second: {fileID: 2100000, guid: 477ab5b622b1c254d9ca9a4c3f75b4ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase72Mat
+    second: {fileID: 2100000, guid: faed40bdce252e34b9342cfabbeb4321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase73Mat
+    second: {fileID: 2100000, guid: 9656b41800b3f0c46a5bc52bb81d79c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase74Mat
+    second: {fileID: 2100000, guid: 536e2fe3f91656c4482376a2aaede16b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase75Mat
+    second: {fileID: 2100000, guid: 4739e35c1c5f3fb45a339704cb674965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase76Mat
+    second: {fileID: 2100000, guid: 4f2645ebbe0e6a44f979c55dca31a9ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase77Mat
+    second: {fileID: 2100000, guid: 002a3e1802b81fd4a91c655518300acd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase78Mat
+    second: {fileID: 2100000, guid: c2fc0b6344fabf54a8a30f5cfcae2fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase79Mat
+    second: {fileID: 2100000, guid: ef8eb30b6bf0d034db3af15c88f84ba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase7Mat
+    second: {fileID: 2100000, guid: e5df5803b6145294b91be505037cbd8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase80Mat
+    second: {fileID: 2100000, guid: 36e3dcf6995e9004184cabc2278c959b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase81Mat
+    second: {fileID: 2100000, guid: 0b606bc30660d1d448343cb7cd56382b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase82Mat
+    second: {fileID: 2100000, guid: 68693bb0a455d1941b142babe1c65ac0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase83Mat
+    second: {fileID: 2100000, guid: 2fbb9d7468a30b14680f786543dc42b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase84Mat
+    second: {fileID: 2100000, guid: 7ecdaac652b0d6c47b75c02c0e93bfd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase85Mat
+    second: {fileID: 2100000, guid: 66df56c34cf6d174c87fa7c33691767b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase86Mat
+    second: {fileID: 2100000, guid: 4fadbdea542e09c47ae315bfaeafc1b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase87Mat
+    second: {fileID: 2100000, guid: 4c184273e05e78f47927f301a2ba2671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase88Mat
+    second: {fileID: 2100000, guid: 7446f587a4aa5714f8f3d12974f7c7df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase8Mat
+    second: {fileID: 2100000, guid: a277d9d68e4bfb64993f67d657cbbff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suitxase_suitcase9Mat
+    second: {fileID: 2100000, guid: 18f631bf1a99bd4418bac26963b3f2e0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

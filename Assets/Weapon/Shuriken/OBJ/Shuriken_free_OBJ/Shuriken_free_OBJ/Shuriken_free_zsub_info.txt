@@ -1,0 +1,40 @@
+*//Shuriken_free//*	created by zsub
+
+
+FEATURES:
+-----------------------
+Japanese NINJA's arms and a name is a "Shuriken"(throwing knife).
+
+
+Mesh Info:
+-----------------------
+- Shuriken_001_free
+Triangles :	9456
+Vertices:	4728
+
+- Shuriken_002_free
+Triangles :	9216
+Vertices:	4608
+
+- Shuriken_003_free
+Triangles :	17702
+Vertices:	8851
+
+- Shuriken_004_free
+Triangles :	12128
+Vertices:	6064
+
+
+notice:
+-----------------------
+If you have interested...
+
+This models might be able to enhance surface with other product textures.
+example, zsub products: ShurikenPack01 or Shuriken_001, 002, 003, 004 etc...
+The texture cordinate will set Y projection in that case.
+However, about UV of the side, you will need a fine adjustment.
+
+
+
+
+Thank you for the downloading. 
