@@ -674,7 +674,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 330430978}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.000030517578, y: -0.00018310547, z: 0}
+  m_LocalPosition: {x: 0, y: 4.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 420986207}
@@ -685,8 +685,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000041962, y: -0.00018501}
-  m_SizeDelta: {x: 800, y: 354.94}
+  m_AnchoredPosition: {x: -0.0000072829, y: 4.5}
+  m_SizeDelta: {x: 800, y: 467.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &330430980
 MonoBehaviour:
@@ -1609,8 +1609,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 788482547}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 506, y: 224.5, z: 0}
-  m_LocalScale: {x: 1.265, y: 1.265, z: 1.265}
+  m_LocalPosition: {x: 352, y: 117.5, z: 0}
+  m_LocalScale: {x: 0.88, y: 0.88, z: 0.88}
   m_Children:
   - {fileID: 330430979}
   m_Father: {fileID: 0}
@@ -3190,8 +3190,17 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Matt Elb\xE9\n\nAdrien Perraud\nSacha Vanleene\nPierre N'Guessan\n\nBruno
-    Bouchard"
+  m_Text: 'Matthieu Le Boucher
+
+
+    Adrien Perraud
+
+    Sacha Vanleene
+
+    Pierre N''Guessan
+
+
+    Bruno Bouchard'
 --- !u!222 &1954813122
 CanvasRenderer:
   m_ObjectHideFlags: 0
